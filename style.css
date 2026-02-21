@@ -55,6 +55,7 @@ body {
 
 .margin-bottom-medium {
   margin-bottom: 32px;
+  width: fit-content;
 }
 
 .paragraph-large {
@@ -139,6 +140,7 @@ body {
   background-color: #414141;
   border-radius: 7px;
   padding: 8px;
+  width: fit-content;
 }
 
 .timeline_circle {
